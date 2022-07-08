@@ -1,5 +1,6 @@
 ![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
 
+<h1>Esto es una modificación</h1>
 <table class="hide" width="100%" style='table-layout:fixed;'>
   <tr>
     <td>
